@@ -1,0 +1,39 @@
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CoreCompileInputs.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.API.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Interface.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Types.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.MainWindow.resources
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.GenerateResource.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CopyComplete
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csprojResolveAssemblyReference.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.Properties.Resources.resources
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.dll
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.pdb
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.API.dll
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Interface.dll
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Types.dll
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csprojResolveAssemblyReference.cache
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.MainWindow.resources
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.Properties.Resources.resources
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.GenerateResource.cache
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CoreCompileInputs.cache
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CopyComplete
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.dll
+H:\Documents\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\CollisionCalc.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.API.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Interface.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\bin\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csprojResolveAssemblyReference.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.MainWindow.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.Properties.Resources.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.csproj.CopyComplete
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CollisionCalc\CollisionCalc\obj\Debug\CollisionCalc.esapi.pdb

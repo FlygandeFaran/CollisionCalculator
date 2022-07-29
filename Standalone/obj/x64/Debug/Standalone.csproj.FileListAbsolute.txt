@@ -1,0 +1,89 @@
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.dll
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.pdb
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.Cache
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\ExportDosePlanes\Standalone\bin\x64\Debug\EvilDICOM.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\EvilDICOM.dll
+H:\Scripts\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.pdb
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+H:\Scripts\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.Cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\EvilDICOM.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.Cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\EvilDICOM.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.Cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\ExportDosePlaness.esapi.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes2\Standalone\bin\x64\Debug\ExportDosePlaness.esapi.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.pdb
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.CoreCompileInputs.cache
+G:\Portal\Eclipse\Eclipse Scripting API\Källkod\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.CopyComplete
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.dll
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\EvilDICOM.dll
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\bin\x64\Debug\ExportDosePlanes.esapi.pdb
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.cache
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.CoreCompileInputs.cache
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\Standalone.csproj.CopyComplete
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\ExportDosePlanes\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe.config
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\x64\Debug\ExportDosePlanesStandalone.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\x64\Debug\CollisionCalc.esapi.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\x64\Debug\CollisionCalc.esapi.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.Properties.Resources.resources
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.StandaloneWindow.resources
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.csproj.CoreCompileInputs.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\Standalone.csproj.CopyComplete
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\x64\Debug\ExportDosePlanesStandalone.pdb

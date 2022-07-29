@@ -1,0 +1,27 @@
+H:\ExportDosePlanes\Standalone\bin\Debug\ChecklistaStandalone.exe.config
+H:\ExportDosePlanes\Standalone\obj\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\ExportDosePlanes\Standalone\obj\Debug\Checklista.Properties.Resources.resources
+H:\ExportDosePlanes\Standalone\obj\Debug\Standalone.StandaloneWindow.resources
+H:\ExportDosePlanes\Standalone\obj\Debug\Standalone.csproj.GenerateResource.Cache
+H:\ExportDosePlanes\Standalone\bin\Debug\ChecklistaStandalone.exe
+H:\ExportDosePlanes\Standalone\bin\Debug\ChecklistaStandalone.pdb
+H:\ExportDosePlanes\Standalone\bin\Debug\ExportDosePlanes.esapi.dll
+H:\ExportDosePlanes\Standalone\bin\Debug\VMS.TPS.Common.Model.API.dll
+H:\ExportDosePlanes\Standalone\bin\Debug\VMS.TPS.Common.Model.Interface.dll
+H:\ExportDosePlanes\Standalone\bin\Debug\VMS.TPS.Common.Model.Types.dll
+H:\ExportDosePlanes\Standalone\bin\Debug\ExportDosePlanes.esapi.pdb
+H:\ExportDosePlanes\Standalone\obj\Debug\ChecklistaStandalone.exe
+H:\ExportDosePlanes\Standalone\obj\Debug\ChecklistaStandalone.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\Debug\ExportDosePlanesStandalone.exe.config
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\Debug\ExportDosePlanesStandalone.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.Properties.Resources.resources
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.StandaloneWindow.resources
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.csproj.GenerateResource.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.csproj.CoreCompileInputs.cache
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\Standalone.csproj.CopyComplete
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\ExportDosePlanesStandalone.exe
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\obj\Debug\ExportDosePlanesStandalone.pdb
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\Debug\CollisionCalc.esapi.dll
+H:\Documents\C# scripting\01 Eclipse scripts\CollisionCalc\Standalone\bin\Debug\CollisionCalc.esapi.pdb

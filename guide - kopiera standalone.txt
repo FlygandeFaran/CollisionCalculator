@@ -1,0 +1,7 @@
+kopiera mappen
+
+ändra debugging till x64
+
+build allt innan du kör för reference
+
+ha samma version av framework
